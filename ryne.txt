@@ -1,5 +1,5 @@
 Yo Paul, what up?
 
 I don't know. Burritos I guess. They're pretty great.
-
+She said to make some changes on line 4.
 hopefully we learn how to deal with merge conflicts and the like
