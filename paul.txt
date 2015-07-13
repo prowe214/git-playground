@@ -1,3 +1,5 @@
 Great repo Paul, really great stuff.
 
 look a change
+
+It seems like this is the same git exercise we did on week 1
